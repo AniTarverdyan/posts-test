@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  cursor: pointer;
+  max-width: 1540px;
+  max-height: 195px;
+}
+
+.header h2 {
+  font-weight: lighter;
+}
+
+.header-h3 {
+  display: flex;
+  align-items: flex-end;
+  margin: 10px;
+  font-size: 14px;
+}
+
+.header-h3 > h3 {
+  margin: 10px;
+  color: rgb(236, 183, 165);
+}
+/* 
+h3:active {
+    color: purple;
+} */
